@@ -1,7 +1,8 @@
 import Spielfeld
 from tkinter import *
 import playsound
-
+def kappa():
+    print("yo")
 
 class Springer():
     istWeiß = None
